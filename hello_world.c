@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int x=0,
+int x=0;
 
 void incr(void){
 	x=x+1;
